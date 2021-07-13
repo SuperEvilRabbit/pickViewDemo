@@ -1,0 +1,6 @@
+framework module Pods_pickViewDemo {
+  umbrella header "Pods-pickViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
